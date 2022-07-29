@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/18 18:28:48.000.243,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/24 11:51:52.000.653,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/24 11:52:28.000.217,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\管控文件区\创业\外汇买卖\工具\windows端\browser.pas</Transaction>
+    <Transaction>2020/12/24 11:52:28.000.217,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm=F:\管控文件区\创业\外汇买卖\工具\windows端\browser.dfm</Transaction>
+    <Transaction>2020/12/24 11:53:14.000.231,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\管控文件区\创业\外汇买卖\工具\windows端\whwinter.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
